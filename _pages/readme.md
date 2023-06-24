@@ -26,9 +26,7 @@ Cameras supported by Sony Creators' App should also work, but are currently unve
 * Sony FX3 (v3.0+)
 * Sony FX30 (v2.0+)
 
-Cameras supported by Imaging Edge Mobile should also work, but are currently unverified.
-
-These include, but are not limited to:
+Cameras supported by Imaging Edge Mobile should also work, but are currently unverified (unless listed above):
 
 * Sony a1
 * Sony a9 (I, II)
@@ -37,8 +35,12 @@ These include, but are not limited to:
 * Sony a7c
 * Sony a7 (III, IV)
 * Sony a6 (6600, 6500, 6400, 6100)
+* Sony RX series (RX100M7, RX100M6, RX10M4, RX0M2)
+* Sony WX series (WX800, WX700)
+* Sony HX series (HX99, HX95)
+* Sony ZV series (E10, 1)
 
-See Imaging Edge Mobile's [List of supported cameras](https://support.d-imaging.sony.co.jp/www/cscs/pmm/products.php?area=gb&lang=en&mnt=3) for a comprehensive list.
+See Imaging Edge Mobile's [List of supported cameras](https://support.d-imaging.sony.co.jp/www/cscs/pmm/products.php?area=gb&lang=en&mnt=3) for more details.
 
 Please report your device's compatibility to chendo[at]sproutcube.com!
 
