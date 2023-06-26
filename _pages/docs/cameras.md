@@ -12,6 +12,7 @@ Geotag Alpha has been tested with the following cameras:
 
 * Sony a7 IV (v2.0+)
 * Sony a7r III (v2.0+, minor issues)
+* Sony a7 III (v3.01+)
 
 Cameras supported by Sony Creators' App should also work, but are currently unverified:
 
