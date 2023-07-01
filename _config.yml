@@ -36,16 +36,20 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Proper Geotagging for Sony Cameras
+  - title                                 : Better geotagging for Sony Alpha cameras
     description                           : Geotag Alpha uses the Bluetooth connection on your Sony camera to push location information to be recorded in your photos' EXIF data. Don't spend time messing with GPX tracks.
     fontawesome_icon_name                 : magic
-    
+
+  - title                                 : Works in the background
+    description                           : Geotag Alpha works while in the background, and even handles reconnecting to paired cameras while backgrounded.
+    fontawesome_icon_name                 : magic
+
   - title                                 : Energy Efficient
-    description                           : Minimises battery drain by only sending locations to the camera when it changes.
+    description                           : Minimises battery drain by only sending locations to the camera when it changes, and only enables location services when connected.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Accurate
-    description                           : Pushes the latest location on camera focus.
+    description                           : Pushes the latest location on focus. Works on current generation Sony alpha cameras with Bluetooth Remote Control enabled.
     fontawesome_icon_name                 : play-circle
 
 # Theme Settings
