@@ -14,8 +14,8 @@ Get started by [Preparing your camera](/docs/prepare).
 
 ## Reported working cameras
 
-* Sony A7 IV
-* Sony A7R IV
-* Sony A7R III
+* Sony α7 IV
+* Sony α7R IV
+* Sony α7R III
 
 See [Supported Sony cameras](/docs/cameras) for more details.
