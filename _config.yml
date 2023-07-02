@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/Geotag Alpha.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Geotag Alpha                              # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Coming soon! Geotag Alpha makes geotagging for Sony cameras usable. Designed to work in the background, handle reconnections, and energy efficient.
+app_description                           : Geotag Alpha makes geotagging for Sony cameras better. Designed to work in the background, handle reconnections, and energy efficient.
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,21 +36,30 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Better geotagging for Sony Alpha cameras
+  - title                                 : Locate your photos
     description                           : Geotag Alpha uses the Bluetooth connection on your Sony camera to push location information to be recorded in your photos' EXIF data. Don't spend time messing with GPX tracks.
+    fontawesome_icon_name                 : map-pin
+
+  - title                                 : Background geotagging
+    description                           : Geotag Alpha works while in the background, and even handles reconnecting to paired cameras while backgrounded. Something that Sony's own apps doesn't do.
     fontawesome_icon_name                 : magic
 
-  - title                                 : Works in the background
-    description                           : Geotag Alpha works while in the background, and even handles reconnecting to paired cameras while backgrounded.
-    fontawesome_icon_name                 : magic
+  - title                                 : Visualise your location
+    description                           : Geotag Alpha provides a map view to show you where your photos will be marked.
+    fontawesome_icon_name                 : map-marked-alt
 
   - title                                 : Energy Efficient
-    description                           : Minimises battery drain by only sending locations to the camera when it changes, and only enables location services when connected.
-    fontawesome_icon_name                 : mobile
+    description                           : Minimises battery drain by only sending locations to the camera when it changes, and only enables location services when connected. Customisable interval and distance between updates.
+    fontawesome_icon_name                 : bolt
 
   - title                                 : Update location on focus
     description                           : Geotag Alpha pushes the latest location to the camera on focus, for more accurate location data on photos. Works on current generation Sony alpha cameras with Bluetooth Remote Control enabled.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : location-arrow
+
+  - title                                 : Multiple camera support
+    description                           : "Coming soon: Geotag Alpha will support geotagging multiple Sony cameras simultaneously."
+    fontawesome_icon_name                 : camera
+
 
 # Theme Settings
 topbar_color                              : "#000000"
@@ -74,7 +83,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#FF8F27"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
