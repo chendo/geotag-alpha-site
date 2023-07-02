@@ -15,6 +15,15 @@ Geotag Alpha requires your Sony camera's Bluetooth functionality as well as "Loc
 * Navigate to `Bluetooth`
 * Set `Bluetooth` to `ON`
 
+## Disable Cnct while Power OFF
+
+There's a known issue where the camera turns back on after turning it off with this enabled.
+
+* Press the `MENU` button
+* Navigate to `Network`
+* Navigate to `Cnct./PC Remote`
+* Set `Cnct while Power OFF` to `OFF`
+
 ## Enable Location Info Link
 
 This may not be applicable to newer Sony cameras.
