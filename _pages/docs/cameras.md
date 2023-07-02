@@ -1,7 +1,7 @@
 ---
-layout: bare
+layout: page
 title: Compatible cameras
-include_in_header: false
+include_in_header: true
 ---
 
 ## Compatible cameras
