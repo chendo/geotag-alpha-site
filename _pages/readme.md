@@ -18,8 +18,12 @@ Check out the [Changelog](/changelog).
 
 These cameras are known to work and are considered supported.
 
-* Sony α7 IV
-* Sony α7R IV
-* Sony α7R III
+* Sony α1
+* Sony α7 IV (v2.0+)
+* Sony α7 III (v3.01+)
+* Sony α7r V
+* Sony α7r IV
+* Sony α7r III (v2.0+)
+* Sony α7C
 
 See [Compatible cameras](/docs/cameras) for more details.

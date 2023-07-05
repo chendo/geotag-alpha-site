@@ -36,7 +36,7 @@ Cameras supported by Imaging Edge Mobile should also work, but are currently unv
 
 * Sony α9 (I, II)
 * Sony α7s III
-* Sony a6 (6600, 6500, 6400, 6100)
+* Sony α6 (6600, 6500, 6400, 6100)
 * Sony RX series (RX100M7, RX100M6, RX10M4, RX0M2)
 * Sony WX series (WX800, WX700)
 * Sony HX series (HX99, HX95)
