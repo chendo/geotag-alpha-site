@@ -12,10 +12,14 @@ Geotag Alpha implements reliable and energy-efficient geotagging functionality o
 
 Get started by [Preparing your camera](/docs/prepare).
 
-## Reported working cameras
+Check out the [Changelog](/changelog).
+
+## Supported cameras
+
+These cameras are known to work and are considered supported.
 
 * Sony α7 IV
 * Sony α7R IV
 * Sony α7R III
 
-See [Supported Sony cameras](/docs/cameras) for more details.
+See [Compatible cameras](/docs/cameras) for more details.

@@ -8,12 +8,19 @@ include_in_header: true
 
 Geotag Alpha aims to support all Sony cameras that support "Location Information Linkage" over Bluetooth. Please check [Sony's support page](https://support.d-imaging.sony.co.jp/www/cscs/pmm/products.php?area=gb&lang=en&mnt=3) to see if your camera supports this feature.
 
-Geotag Alpha works with the following cameras:
+### Supported cameras
 
+These cameras have been tested to work with Geotag Alpha and are expected to work.
+
+* Sony α1
 * Sony α7 IV (v2.0+)
 * Sony α7 III (v3.01+)
 * Sony α7r V
+* Sony α7r IV
 * Sony α7r III (v2.0+)
+* Sony α7C
+
+### Creators' app cameras
 
 Cameras supported by Sony Creators' App should also work, but are currently unverified:
 
@@ -23,14 +30,12 @@ Cameras supported by Sony Creators' App should also work, but are currently unve
 * Sony FX3 (v3.0+)
 * Sony FX30 (v2.0+)
 
-Cameras supported by Imaging Edge Mobile should also work, but are currently unverified (unless listed above) and lack some features:
+### Imaging Edge Mobile cameras
 
-* Sony α1
+Cameras supported by Imaging Edge Mobile should also work, but are currently unverified (unless known to be supported) and lack some features:
+
 * Sony α9 (I, II)
 * Sony α7s III
-* Sony α7r (III, IV, V)
-* Sony α7c
-* Sony α7 (III, IV)
 * Sony a6 (6600, 6500, 6400, 6100)
 * Sony RX series (RX100M7, RX100M6, RX10M4, RX0M2)
 * Sony WX series (WX800, WX700)
