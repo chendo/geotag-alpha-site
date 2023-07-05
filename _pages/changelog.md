@@ -6,9 +6,9 @@ include_in_header: true
 
 # Changelog
 
-## v0.3 (18)
+## v0.3 (18/19)
 
-* Fixed occasional crash on photo count change
+* Fixed occasional crash on remaining photo count change
 * Improve reliability after reconnecting in background
   * Fixed a race condition where locations don't get pushed after reconnecting in background under certain conditions
   * Attempt to work around Bluetooth stack oddities
