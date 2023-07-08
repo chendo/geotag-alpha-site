@@ -30,4 +30,4 @@ See [Compatible cameras](/docs/cameras) for more details.
 
 ## Known issues
 
-* App may not reconnect if device goes out of range, or there is heavy Bluetooth interference
+* Camera may not be able reconnect if device goes out of range, or there is heavy Bluetooth interference

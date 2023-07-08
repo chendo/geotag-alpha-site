@@ -8,11 +8,7 @@
 					</clipPath>
 				</defs>
 			</svg>
-			{% if page.url != '/' %}
-				<a href="../" target="_self"><img class="headerIcon" src="{{ site.app_icon | relative_url }}"></a>
-			{% else %}
-				<img class="headerIcon" src="{{ site.app_icon | relative_url }}">
-			{% endif %}
+			<a href="/" target="_self"><img class="headerIcon" alt="{{ site.page_title }}" src="{{ site.app_icon | relative_url }}"></a>
 			<div class="divider"></div>
 		</div>
 		<p class="headerName">{{ site.app_name }}</p>
