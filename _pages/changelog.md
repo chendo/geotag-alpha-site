@@ -6,6 +6,12 @@ include_in_header: true
 
 # Changelog
 
+## v0.3 (20)
+
+* Added ability to enable/disable entire app and individual cameras
+* Improve energy efficiency when all enabled cameras have `Use Fast Reconnect` enabled
+* Automatically disable `Use Fast Reconnect` if a camera with `Control when Powered OFF` is detected
+
 ## v0.3 (18/19)
 
 * Fixed occasional crash on remaining photo count change
