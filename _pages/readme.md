@@ -16,7 +16,7 @@ Check out the [Changelog](/changelog).
 
 ## Supported cameras
 
-These cameras are known to work and are considered supported.
+These cameras are known to work and are considered supported, however there are some known issues if you turn `Use Fast Reconnect` off.
 
 * Sony α1
 * Sony α7 IV (v2.0+)
@@ -27,3 +27,7 @@ These cameras are known to work and are considered supported.
 * Sony α7C
 
 See [Compatible cameras](/docs/cameras) for more details.
+
+## Known issues
+
+* App may not reconnect if device goes out of range, or there is heavy Bluetooth interference

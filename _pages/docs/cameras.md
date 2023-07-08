@@ -12,7 +12,7 @@ Please report your device's compatibility from the "Send feedback" feature in th
 
 ### Supported cameras
 
-These cameras have been tested to work with Geotag Alpha and are expected to work.
+These cameras have been tested to work with Geotag Alpha and are expected to work, however there are some known issues if you have "Control while Powered OFF" enabled on the camera.
 
 * Sony α1
 * Sony α7 IV (v2.0+)
