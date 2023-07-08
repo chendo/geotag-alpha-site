@@ -18,13 +18,13 @@ Check out the [Changelog](/changelog).
 
 These cameras are known to work and are considered supported, however there are some known issues if you turn `Use Fast Reconnect` off.
 
-* Sony α1
-* Sony α7 IV (v2.0+)
-* Sony α7 III (v3.01+)
-* Sony α7r V
-* Sony α7r IV
-* Sony α7r III (v2.0+)
-* Sony α7C
+* Sony a1
+* Sony a7 IV (v2.0+)
+* Sony a7 III (v3.01+)
+* Sony a7r V
+* Sony a7r IV
+* Sony a7r III (v2.0+)
+* Sony a7c
 
 See [Compatible cameras](/docs/cameras) for more details.
 
