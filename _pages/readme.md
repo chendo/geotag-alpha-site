@@ -12,13 +12,13 @@ Geotag Alpha implements reliable and energy-efficient geotagging functionality o
 
 Get started by [Preparing your camera](/docs/prepare).
 
+Having issues? [Troubleshooting](/docs/troubleshooting).
 Check out the [Changelog](/changelog).
 
 ## Supported cameras
 
 These cameras are known to work and are considered supported, however there are some known issues if you turn `Use Fast Reconnect` off.
 
-* Sony a1
 * Sony a7 IV (v2.0+)
 * Sony a7 III (v3.01+)
 * Sony a7r V
@@ -30,4 +30,4 @@ See [Compatible cameras](/docs/cameras) for more details.
 
 ## Known issues
 
-* Camera may not be able reconnect if device goes out of range, or there is heavy Bluetooth interference
+* Fixed in build 23: Camera may not be able reconnect if device goes out of range, or there is heavy Bluetooth interference
