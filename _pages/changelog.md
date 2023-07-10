@@ -6,12 +6,10 @@ include_in_header: true
 
 # Changelog
 
-## v0.3 (24)
+## v0.3 (25)
 
 * Workaround iOS not delivering Bluetooth packets after running in the background on battery for a long time
 * Fix location not being pushed after app first launched after upgrading when a camera is already connected 
-* Moved Settings and Help buttons to toolbar
-* Merged accuracy and speed cells
 
 ## v0.3 (23)
 
