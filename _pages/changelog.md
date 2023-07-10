@@ -6,6 +6,20 @@ include_in_header: true
 
 # Changelog
 
+## v0.3 (24)
+
+* Workaround iOS not delivering Bluetooth packets after running in the background on battery for a long time
+* Fix location not being pushed after app first launched after upgrading when a camera is already connected 
+* Moved Settings and Help buttons to toolbar
+* Merged accuracy and speed cells
+
+## v0.3 (23)
+
+* Improved reliability of reconnecting after an error state (connection timeout, etc)
+* Try to improve reliability with on Sony a1
+* Moved Settings and Help buttons to toolbar
+* Merged accuracy and speed cells
+
 ## v0.3 (20)
 
 * Added ability to enable/disable entire app and individual cameras
