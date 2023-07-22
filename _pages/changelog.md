@@ -6,7 +6,7 @@ include_in_header: true
 
 # Changelog
 
-## v0.3 (28)
+## v0.3 (29)
 
 * Improve handling of cameras with `Control while Power OFF`
   * Correctly handle RX0M2 cameras 
