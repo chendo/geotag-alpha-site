@@ -6,6 +6,13 @@ include_in_header: true
 
 # Changelog
 
+## v0.3 (28)
+
+* Improve handling of cameras with `Control while Power OFF`
+  * Correctly handle RX0M2 cameras 
+  * Automatically enable and disable `Use Fast Reconnect` accordingly
+* Improve background location pushes while device is not moving
+
 ## v0.3 (25)
 
 * Workaround iOS not delivering Bluetooth packets after running in the background on battery for a long time
