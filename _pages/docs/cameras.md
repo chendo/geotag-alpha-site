@@ -26,8 +26,6 @@ These cameras have been tested to work with Geotag Alpha and are expected to wor
 * Sony a7c R
 * Sony RX0 II (v2.0+)
 * Sony RX100 VII
-* Sony a6700
-* Sony a6400
 
 ### Creators' app cameras
 
