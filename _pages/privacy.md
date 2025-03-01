@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-July 2nd, 2023
+March 1, 2025
 
 # Privacy Policy
 
@@ -13,6 +13,4 @@ July 2nd, 2023
 
 ## Telemetry and error data
 
-Geotag Alpha uses Sentry to collect error and telemetry data, which is sent to a self-hosted Sentry instance located in Australia.
-
-Geotag Alpha also uses Apple's MetricKit system to collect app metrics.
+Geotag Alpha sends crash, error, and basic telemetry data to Apple and Sentry (EU).
