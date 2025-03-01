@@ -15,13 +15,20 @@ Please report your device's compatibility from the "Send feedback" feature in th
 These cameras have been tested to work with Geotag Alpha and are expected to work, however there are some known issues if you have "Control while Powered OFF" enabled on the camera.
 
 * Sony a1
+* Sony a1 II
 * Sony a7 IV (v2.0+)
 * Sony a7 III (v3.01+)
 * Sony a7r V
 * Sony a7r IV
 * Sony a7r III (v2.0+)
 * Sony a7c
-* Sony RX0 ii (v2.0+)
+* Sony a7c II
+* Sony a7c R
+* Sony RX0 II (v2.0+)
+* Sony RX100 VII
+* Sony a6700
+* Sony a6400
+
 ### Creators' app cameras
 
 Cameras supported by Sony Creators' App should also work, but are currently unverified:
